@@ -1,4 +1,4 @@
-**Small web application using graphic
+# Small web application using graphic
 
-I build this small sample of a web application to use [Recharts][1] also use Reactjs and Redux
-[1]:http://recharts.org/#/en-US/
+I build this small sample of a web application to use [Recharts](http://recharts.org/#/en-US/) also use Reactjs and Redux
+
